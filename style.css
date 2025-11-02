@@ -1,0 +1,41 @@
+body{
+  font-family: sans-serif;
+  background-color: red;
+}
+
+header{
+background-color:#3024ad;
+text-align: center;
+padding: 15px;
+}
+
+h1{
+    color: yellow;
+}
+    
+a{
+    color: black;
+    background-color: red;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+main{
+    text-align: center;
+}
+ul{
+    text-align: center;
+    background-color: white;
+}
+
+h2{
+    color: yellow;
+}
+
+footer{
+background-color:#3024ad;
+text-align: center;
+padding: 15px;
+}
+/*Зроби цей сайт красивим 😉*/
